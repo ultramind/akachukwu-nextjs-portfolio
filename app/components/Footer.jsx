@@ -1,5 +1,5 @@
 import React from "react";
-import img from "../assets/images/author/footer-img.png";
+import img from "../assets/images/author/footer-img.PNG";
 import Image from "next/image";
 
 const Footer = () => {
@@ -12,7 +12,7 @@ const Footer = () => {
         <h1 className="text-4xl font-bold">Akachukwu</h1>
       </div>
       <p className="text-2xl text-center">
-        © 2023.All rights reserved ULTRACODE.
+        © 2024.All rights reserved ULTRACODE.
       </p>
     </div>
   );
