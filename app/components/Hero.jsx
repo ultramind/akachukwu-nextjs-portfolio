@@ -45,7 +45,7 @@ const Hero = ({ theme }) => {
           dynamic web applications using HTML, CSS, JavaScript, ReactJS, Node,
           MongoDB, MySQL, PHP, and Tailwind CSS. With strong problem-solving and
           communication skills, I am able to work effectively in a team
-          environment and deliver projects within tight deadlines.
+          environment and deliver projects within tight deadlines ooh.
         </p>
         {/* CTA buttons */}
         <div className="flex flex-col space-y-10 md:flex-col md:items-start md:justify-between md:space-y-6 lg:flex-row lg:items-center lg:space-y-0">
