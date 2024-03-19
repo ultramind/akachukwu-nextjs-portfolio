@@ -51,7 +51,7 @@ const Hero = ({ theme }) => {
         <div className="flex flex-col space-y-10 md:flex-col md:items-start md:justify-between md:space-y-6 lg:flex-row lg:items-center lg:space-y-0">
           {/* socials */}
           <div className="md:flex-col ">
-            <h3 className="font-bold text-2xl">Find me with</h3>
+            <h3 className="font-bold text-2xl">Find me with ooh</h3>
             <div className="mt-6 space-x-4">
               <a
                 href="#"
